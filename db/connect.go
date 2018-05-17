@@ -17,7 +17,7 @@ var (
 
 const (
 	// MongoDBUrl est l'adresse par défaut de la base de données
-	MongoDBUrl = "mongodb://localhost:20017/blog-db"
+	MongoDBUrl = "mongodb://localhost:27017/blog-db"
 )
 
 // Connect connecte à la base de données mongodb
